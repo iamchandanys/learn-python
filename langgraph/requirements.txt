@@ -4,3 +4,4 @@ langchain[openai]
 ipykernel
 python-dotenv
 langchain_tavily
+uuid
