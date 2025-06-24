@@ -26,3 +26,19 @@ deactivate
 
 @REM To install the required packages
 pip install -r requirements.txt
+
+-------------------------------------------------------------
+
+@REM Virtual Environment using UV package
+
+@REM To init the UV package
+uv init
+
+@REM To create a virtual environment
+uv venv
+
+@REM To activate a virtual environment
+.venv\Scripts\activate
+
+@REM To install the required packages
+uv add -r requirements.txt

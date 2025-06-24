@@ -6,3 +6,4 @@ python-dotenv
 langchain_tavily
 uuid
 numpy
+langgraph-checkpoint-postgres
